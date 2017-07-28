@@ -2,5 +2,11 @@
   "dependencies": {
     "chalk": "^2.0.1",
     "moment": "^2.18.1"
-  }
+  },
+  "name": "Date-Facts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AgentShir/Date-Facts.git",
+  "author": "Shireen Garcia <garciasal@gmail.com>",
+  "license": "MIT"
 }
